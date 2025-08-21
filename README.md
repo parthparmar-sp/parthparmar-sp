@@ -49,24 +49,6 @@ An **AI-powered chatbot** built with **MERN + OpenAI API**
 
 ---
 
-### 📚 E-Learning Platform (MERN Stack)
-Interactive platform for students and instructors.  
-**✨ Features:**
-- 🔐 User authentication
-- 🧑‍🏫 Course management
-- 📺 Video streaming
-
----
-
-### 💧 Water Supply Management System (ASP.NET)
-<img src="https://cdn-icons-png.flaticon.com/512/861/861060.png" width="40"/>
-
-**✨ Features:**
-- ⚙️ Admin control panel  
-- 📅 Water distribution scheduler  
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parthparmar-sp&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="48%" />
@@ -80,12 +62,6 @@ Interactive platform for students and instructors.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthparmar-sp&layout=compact&theme=gruvbox&langs_count=8&hide_border=true&border_radius=10" />
 </p>
 
----
-
-## 🧊 3D Contributions Calendar
-<p align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" />
-</p>
 
 ---
 
