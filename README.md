@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 🌐 **MERN Stack Developer** | HTML | CSS | JavaScript | React.js | Node.js | Express.js | MongoDB | Mongoose | REST API | JWT Authentication | Socket.io | WebRTC | Bootstrap | Tailwind CSS | Git | GitHub | MySQL | Render | Vercel | Netlify | Docker |  
-📚 Built **MERNMEET**, **MERNGPT**, and more 🚀  
+📚 Built MERNMEET, MERNGPT, MEET, Lab_Assist, React-Counter, React-TODO, and more 🚀
 📬 Reach me at: **parthparmar271127@gmail.com**
 
 ---
